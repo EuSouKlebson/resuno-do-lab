@@ -17,3 +17,8 @@ Durante as aulas foi desenvolvido conceitos basicos ref. o exame AZ 900 da Micro
 2- Migraçao de dados
 3- Transferencia com o AzCopy
 
+**Otimizando Custos no Azure**
+
+1- A importacia de tags/marcas
+2- O uso da calculadora de custos
+3- Serviços podem ter preços diferente quando hospedados em regiooes diferentes
