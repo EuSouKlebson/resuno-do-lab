@@ -22,3 +22,8 @@ Durante as aulas foi desenvolvido conceitos basicos ref. o exame AZ 900 da Micro
 1- A importacia de tags/marcas
 2- O uso da calculadora de custos
 3- Serviços podem ter preços diferente quando hospedados em regiooes diferentes
+
+**Gerenciando Politicas em Acessos Azure**
+
+1- Microsoft Purview
+2- Azure Policy
