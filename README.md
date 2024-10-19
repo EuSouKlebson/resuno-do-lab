@@ -27,3 +27,8 @@ Durante as aulas foi desenvolvido conceitos basicos ref. o exame AZ 900 da Micro
 
 1- Microsoft Purview
 2- Azure Policy
+
+**Ferramentas de Implantação na Azure**
+
+1- ARC
+
